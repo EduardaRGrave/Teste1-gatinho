@@ -20,4 +20,6 @@ meu_carro = Carro(input ("Qual a cor do carro? (É permitido que haja alteraçõ
 meu_carro.info()
 print(f"O carro tem {meu_carro.portas} portas. ") # Imprime: 4
 
+print("aaaaaaaaaaaaa")
+
 
